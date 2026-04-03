@@ -51,3 +51,11 @@ All outputs are stored in `output.txt`
 
 ```bash
 pip install -r requirements.txt
+
+python task1_random_forest.py
+python task2_logistic_regression.py
+python task3_xgboost.py
+python task4_decision_tree.py
+
+Author
+Wasay Khan
