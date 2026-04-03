@@ -1,0 +1,32 @@
+---
+
+# 🧾 3. output.txt (COMBINED)
+
+```txt
+================ TASK 1: RANDOM FOREST =================
+Accuracy: 96.49
+Confusion Matrix:
+[[40  2]
+ [ 1 71]]
+
+================ TASK 2: LOGISTIC REGRESSION =================
+Accuracy: 78.00
+Confusion Matrix:
+[[90 15]
+ [20 75]]
+
+================ TASK 3: XGBOOST =================
+Accuracy: 85.47
+Confusion Matrix:
+[[90 15]
+ [10 64]]
+ROC-AUC: 0.91
+
+================ TASK 4: DECISION TREE =================
+Accuracy: 75.32
+Confusion Matrix:
+[[85 20]
+ [25 60]]
+
+Restricted Tree Accuracy (max_depth=3): 72.10
+Feature Importance displayed
